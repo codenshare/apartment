@@ -1,1 +1,2 @@
-# apartment
+# Apartment Design
+This is a passionate project to interior design a layout of an apartment in Delhi, India by an engineer for his family. I have uploaded designs and visio diagrams of the updated apartment layout (had to knock off some walls), reach-in closets, cutlery cabinets, vanities and kitchen. I have been inspired by multiple sites and videos including Architectural Digest, Houzz and Pinterest boards to design this modern apartment layout. During the quest to build and visualize a design remotely as I could not visit the site because of Covid, also used 3-D and AR based modeling techniques. Here is the AR and 3-D map https://planner5d.com/view?key=6733780e0b2ff9196ed3f4d692315b8d
